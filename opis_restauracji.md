@@ -1,8 +1,8 @@
-# **Pizzeria "La Bella Napoli"**
+# **Pizzeria "Bella Napoli"**
 
 ## **O nas**
 
-### **Witamy w Pizzerii "La Bella Napoli"!**
+### **Witamy w Pizzerii "Bella Napoli"!**
 
 "**La Bella Napoli**" to miejsce, gdzie pasja do tradycyjnej włoskiej pizzy spotyka się z najwyższą jakością składników i doskonałym smakiem. Nasza pizzeria powstała z miłości do włoskiej kuchni i chęci dzielenia się tym wyjątkowym doświadczeniem z naszymi gośćmi.
 
