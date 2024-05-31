@@ -1,4 +1,11 @@
 # **Menu**
+<img src = "img/nick-karvounis-Ciqxn7FE4vE-unsplash.jpg" width = 500px>
+
+|Lp. |Pizza|
+|---|----------------------|
+|1. |MARGHERITA|
+|2. |FUNGHI|
+|1. |SALAMI|
 
 ## **Przystawki**
 
