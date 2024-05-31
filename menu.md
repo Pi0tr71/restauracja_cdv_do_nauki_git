@@ -74,6 +74,10 @@
   Gazowana lub niegazowana  
   Cena: 8 PLN
 
+- **Woda Jeżycka**  
+  Gazowana lub niegazowana  
+  Cena: free PLN
+  
 ---
 
 **Zapraszamy do naszej restauracji!**
