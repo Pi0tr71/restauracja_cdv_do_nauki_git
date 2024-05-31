@@ -1,5 +1,5 @@
 # restauracja_cdv
-To repozytorium zawiera dokumenty i pliki do stworzenia restauracji
+To repozytorium zawiera dokumenty i pliki do stworzenia restauracji, które posłużyło mi do nauki.
 
 Dzięki temu nauczyłem się, jak działa GitHub i Git:
 - Wykonałem commit'y:
