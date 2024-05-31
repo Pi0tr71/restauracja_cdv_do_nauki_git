@@ -3,23 +3,15 @@
 
 |Lp. |Pizza|
 |---|----------------------|
-|1. |MARGHERITA|
-|2. |FUNGHI|
-|1. |SALAMI|
+|1. |MARGHERITA (VEGE)|
+|2. |FUNGHI (VEGE)|
+|1. |SALAMI (VEGE)|
 
 ## **Przystawki**
 
 - **Bruschetta**  
   Chrupiące pieczywo z pomidorami, bazylią i oliwą z oliwek  
   Cena: 20 PLN
-
-- **Krewetki w Sosie Czosnkowym**  
-  Krewetki smażone na maśle z dodatkiem czosnku i świeżych ziół  
-  Cena: 35 PLN
-
-- **Tatar wołowy**  
-  Świeża wołowina z dodatkiem kaparów, cebuli i żółtka  
-  Cena: 40 PLN
 
 ## **Zupy**
 
@@ -31,19 +23,7 @@
   Gęsty krem z dyni, podawany z grzankami i pestkami dyni  
   Cena: 18 PLN
 
-- **Rosół z Domowym Makaronem**  
-  Tradycyjny rosół na bazie kurczaka z domowym makaronem  
-  Cena: 15 PLN
-
 ## **Dania Główne**
-
-- **Stek z Polędwicy Wołowej**  
-  Polędwica wołowa grillowana na idealny stopień wysmażenia, podawana z frytkami i sałatką  
-  Cena: 90 PLN
-
-- **Łosoś w Sosie Cytrynowym**  
-  Filet z łososia pieczony w sosie cytrynowym, podawany z ryżem i warzywami  
-  Cena: 65 PLN
 
 - **Risotto z Grzybami**  
   Kremowe risotto z mieszanką grzybów leśnych, parmezanem i świeżymi ziołami  
@@ -57,10 +37,6 @@
 
 - **Sernik z Białą Czekoladą**  
   Kremowy sernik z dodatkiem białej czekolady na kruchym spodzie  
-  Cena: 20 PLN
-
-- **Panna Cotta**  
-  Delikatny deser śmietankowy z musem owocowym  
   Cena: 20 PLN
 
 ## **Napoje**
