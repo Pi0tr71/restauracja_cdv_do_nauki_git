@@ -5,7 +5,7 @@
 |---|----------------------|----|
 |1. |MARGHERITA (VEGE)|100 zł|
 |2. |FUNGHI (VEGE)|100 zł|
-|1. |SALAMI (VEGE)|100 zł|
+|1. |SALAMI|100 zł|
 
 ## **Przystawki**
 
