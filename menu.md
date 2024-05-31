@@ -1,11 +1,11 @@
 # **Menu**
 <img src = "img/nick-karvounis-Ciqxn7FE4vE-unsplash.jpg" width = 500px>
 
-|Lp. |Pizza|
-|---|----------------------|
-|1. |MARGHERITA (VEGE)|
-|2. |FUNGHI (VEGE)|
-|1. |SALAMI (VEGE)|
+|Lp. |Pizza|Cena|
+|---|----------------------|----|
+|1. |MARGHERITA (VEGE)|100 zł|
+|2. |FUNGHI (VEGE)|100 zł|
+|1. |SALAMI (VEGE)|100 zł|
 
 ## **Przystawki**
 
